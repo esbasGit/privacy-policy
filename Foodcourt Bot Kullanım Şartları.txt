@@ -1,0 +1,41 @@
+Foodcourt Bot Kullanım Şartları
+
+Yürürlük tarihi: 05.06.2026
+
+Bu kullanım şartları, Foodcourt Bot WhatsApp hizmetinin kullanımına ilişkin koşulları açıklar. Hizmeti kullanarak bu şartları kabul etmiş sayılırsınız.
+
+1. Hizmetin Kapsamı
+
+Foodcourt Bot, kullanıcıların WhatsApp üzerinden sipariş numarası göndererek sipariş durumunu sorgulamasına ve sipariş hazırlık durumuna ilişkin bilgilendirme almasına imkan sağlayan otomatik bir bilgilendirme hizmetidir.
+
+2. Kullanıcı Sorumlulukları
+
+Kullanıcı, doğru sipariş numarası göndermekten ve hizmeti yalnızca yasal, dürüst ve amacına uygun şekilde kullanmaktan sorumludur. Hizmetin kötüye kullanılması, otomatik sorgularla sistemi yorma veya üçüncü kişilere ait sipariş bilgilerine erişmeye çalışma yasaktır.
+
+3. Bilgilendirme Niteliği
+
+Bot tarafından iletilen sipariş durumu bilgileri, ilgili sipariş sistemindeki güncel verilere göre oluşturulur. Teknik gecikmeler, sistem kesintileri veya veri aktarımındaki sorunlar nedeniyle bilgilerde gecikme veya eksiklik olabilir.
+
+4. WhatsApp Kullanımı
+
+Hizmet WhatsApp üzerinden sunulur. WhatsApp kullanımınız Meta/WhatsApp tarafından belirlenen kullanım koşullarına ve gizlilik kurallarına da tabidir. Kullanıcı, işletme numarasına mesaj göndererek bu hizmet kapsamında kendisine WhatsApp üzerinden yanıt ve sipariş bilgilendirmesi gönderilmesini kabul eder.
+
+5. Kişisel Veriler
+
+Hizmet kapsamında WhatsApp telefon numarası, gönderilen mesaj içeriği ve sipariş numarası gibi bilgiler işlenebilir. Bu bilgiler yalnızca sipariş durumu sorgulama, bilgilendirme, güvenlik, hata takibi ve hizmetin işletilmesi amaçlarıyla kullanılır. Detaylı bilgi için ilgili gizlilik politikası veya KVKK aydınlatma metni incelenmelidir.
+
+6. Hizmetin Kesintiye Uğraması
+
+Hizmetin kesintisiz, hatasız veya her zaman erişilebilir olacağı garanti edilmez. Bakım, altyapı, internet bağlantısı, üçüncü taraf servisler veya mücbir sebepler nedeniyle hizmet geçici olarak durabilir.
+
+7. Sorumluluğun Sınırlandırılması
+
+Foodcourt Bot bilgilendirme amaçlıdır. Hizmetin kullanımından, geç yanıt verilmesinden veya teknik aksaklıklardan doğabilecek dolaylı zararlardan, mevzuatın izin verdiği ölçüde sorumluluk kabul edilmez.
+
+8. Şartlarda Değişiklik
+
+Bu kullanım şartları ihtiyaç halinde güncellenebilir. Güncel şartlar yayınlandığı tarihten itibaren geçerli olur.
+
+9. İletişim
+
+Hizmetle ilgili soru ve talepleriniz için işletmenin resmi iletişim kanallarını kullanabilirsiniz.
