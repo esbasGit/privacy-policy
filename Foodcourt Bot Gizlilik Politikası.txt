@@ -1,0 +1,69 @@
+Foodcourt Bot Gizlilik Politikası
+
+Yürürlük tarihi: 05.06.2026
+
+Foodcourt Bot, WhatsApp üzerinden sipariş durumu sorgulama ve sipariş bilgilendirme hizmeti sunar. Bu gizlilik politikası, hizmet kapsamında hangi kişisel verilerin işlendiğini, bu verilerin hangi amaçlarla kullanıldığını ve kullanıcıların haklarını açıklar.
+
+1. İşlenen Veriler
+
+Hizmet kapsamında aşağıdaki veriler işlenebilir:
+
+WhatsApp telefon numarası
+Kullanıcı tarafından gönderilen mesaj içeriği
+Sipariş numarası
+Sipariş durum bilgileri
+Mesaj gönderim ve teslimat kayıtları
+İşlem tarihi ve zamanı
+Teknik hata ve sistem logları
+2. Verilerin İşlenme Amaçları
+
+Kişisel veriler aşağıdaki amaçlarla işlenir:
+
+Sipariş durumunu sorgulamak
+Kullanıcıya WhatsApp üzerinden sipariş durumu hakkında yanıt vermek
+Sipariş hazırlık veya teslim durumuna ilişkin bilgilendirme göndermek
+Sipariş takip sürecini yürütmek
+Hizmet güvenliğini sağlamak
+Teknik hataları analiz etmek ve hizmet kalitesini iyileştirmek
+Yasal yükümlülükleri yerine getirmek
+3. WhatsApp ve Üçüncü Taraf Hizmetler
+
+Hizmet WhatsApp altyapısı üzerinden sunulur. Bu nedenle mesajlaşma süreçleri Meta/WhatsApp sistemleri üzerinden yürütülür. WhatsApp kullanımınız Meta/WhatsApp’ın kendi kullanım koşulları ve gizlilik politikalarına da tabidir.
+
+4. Verilerin Paylaşımı
+
+Kişisel veriler, hizmetin sunulması için gerekli haller dışında üçüncü kişilerle paylaşılmaz. Ancak aşağıdaki durumlarda yetkili kişi, kurum veya hizmet sağlayıcılarla paylaşım yapılabilir:
+
+Yasal yükümlülüklerin yerine getirilmesi
+Yetkili kamu kurum ve kuruluşlarından gelen talepler
+Hizmetin teknik altyapısının işletilmesi
+Güvenlik, hata takibi ve sistem yönetimi süreçleri
+5. Verilerin Saklama Süresi
+
+Kişisel veriler, hizmetin sunulması ve yasal yükümlülüklerin yerine getirilmesi için gerekli süre boyunca saklanır. Takip süreci tamamlanan siparişlere ilişkin veriler, makul süre içinde silinir, anonim hale getirilir veya yalnızca teknik kayıt amacıyla sınırlı şekilde saklanır.
+
+6. Veri Güvenliği
+
+Kişisel verilerin yetkisiz erişime, kayba, kötüye kullanıma veya hukuka aykırı işlemeye karşı korunması için makul teknik ve idari güvenlik önlemleri alınır.
+
+7. Kullanıcı Hakları
+
+Kullanıcılar, yürürlükteki mevzuat kapsamında kişisel verilerine ilişkin aşağıdaki haklara sahip olabilir:
+
+Kişisel verilerinin işlenip işlenmediğini öğrenme
+İşlenen kişisel veriler hakkında bilgi talep etme
+Eksik veya yanlış işlenen verilerin düzeltilmesini isteme
+Verilerin silinmesini veya anonim hale getirilmesini talep etme
+İşlemeye itiraz etme
+Yetkili kurumlara başvurma
+8. Veri Silme Talepleri
+
+Kullanıcılar, kişisel verilerinin silinmesine ilişkin taleplerini işletmenin resmi iletişim kanalları üzerinden iletebilir. Talep, yürürlükteki mevzuata uygun şekilde değerlendirilir.
+
+9. Politika Değişiklikleri
+
+Bu gizlilik politikası ihtiyaç halinde güncellenebilir. Güncel politika yayınlandığı tarihten itibaren geçerli olur.
+
+10. İletişim
+
+Gizlilik politikası ve kişisel verilerle ilgili soru, talep ve başvurular için işletmenin resmi iletişim kanalları kullanılabilir.
